@@ -60,9 +60,9 @@ MIMII-dataset
 │   MIMII.ipynb            : main file
 │   
 │__ 
-│   valve                  : to create a .csv file to save bounds and urls
+│   valve                  : valve dBs png files
 │  
-│__ valve_validation       : csv file of bounds
+│__ valve_validation       : valve validation dBs png files
 │
 
 ```

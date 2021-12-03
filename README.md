@@ -69,7 +69,8 @@ MIMII-dataset
 
 ## Collaborators
 
-Design and construction phase of the project was made by 4 collaborators.([Margaux Benoit](https://github.com/benoitmargx),[Yusuf Akcakaya](https://github.com/yusufakcakaya))
+Design and construction phase of the project was made by 2 collaborators.([Margaux Benoit](https://github.com/benoitmargx),[Yusuf Akcakaya](https://github.com/yusufakcakaya))
+The code while applying the model comes from ([Analyticsvidhya](https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/).
 
 
 ## Visuals

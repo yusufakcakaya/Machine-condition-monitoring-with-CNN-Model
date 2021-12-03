@@ -67,10 +67,16 @@ MIMII-dataset
 
 ```
 
+## Collaborators
+
+Design and construction phase of the project was made by 4 collaborators.([Margaux Benoit](https://github.com/benoitmargx),[Yusuf Akcakaya](https://github.com/yusufakcakaya))
+
+
 ## Visuals
 
 Examples of outputs.
 
+![download](https://user-images.githubusercontent.com/46165841/144579306-e7b30da8-c269-4b2a-93e0-add833bc4ba9.png)
 
 
 ## Timeline
